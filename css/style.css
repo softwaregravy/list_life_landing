@@ -1401,6 +1401,10 @@ and (min-width : 551px){
     height: 236px;
 }
 
+.contact .checkbox label {
+  color: #fff;
+}
+
 .contact::-webkit-input-placeholder {
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
